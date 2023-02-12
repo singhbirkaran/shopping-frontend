@@ -1,0 +1,46 @@
+@media screen and (max-width:1000px) {
+    #user-nav input{
+        display: none;
+       
+}
+#gender-section a{
+    border: none;
+}
+
+.image-full{
+    display: none;
+}
+#images img{
+    width:100%;
+}
+.image-small{
+    display: flex;
+
+}
+.center-text{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.btns{
+    display: none;
+}
+}
+
+
+
+
+@media screen and (max-width:1500px) {
+
+#top-nav div{
+    display: none;
+    
+
+}
+
+}
