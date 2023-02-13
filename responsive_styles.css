@@ -35,6 +35,9 @@
 .btns{
     display: none;
 }
+.footer h2{
+    display: none;
+}
 }
 
 
@@ -46,6 +49,10 @@
     display: none;
     
 
+}
+
+#top-nav a{
+    margin-right:-50px;
 }
 
 }

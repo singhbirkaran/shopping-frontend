@@ -159,7 +159,7 @@ form input{
 textarea{
     display: flex;
     flex-direction: column;
-    width:50%;
+    width:400px;
     height: 125px;
 }
 
