@@ -156,10 +156,10 @@ form input{
     flex-direction: column;
 }
 
-textarea{
+form textarea{
     display: flex;
     flex-direction: column;
-    width:400px;
+    width:80%;
     height: 125px;
 }
 
