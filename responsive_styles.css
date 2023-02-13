@@ -38,6 +38,9 @@
 .footer h2{
     display: none;
 }
+form input{
+    width: 50%;
+}
 }
 
 
