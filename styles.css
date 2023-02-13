@@ -1,7 +1,6 @@
 body{
     margin: auto;
     font-family: 'Garamond',serif;
-    
 }
 a{
     text-decoration: none;
@@ -97,9 +96,12 @@ a{
 }
 #images{
     display: flex;
-    
     margin-right:3rem;
     margin-left: 3rem;
+}
+
+.main-content{
+    position:relative;
 }
 
 .center-text{
@@ -110,7 +112,7 @@ a{
     top: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    width: 50vh;
+    margin: auto;
 }
 
 .center-text h1{
@@ -176,4 +178,18 @@ textarea{
     margin:auto;
     width:75%;
     text-align: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+
+.footer p{
+    margin:1em;
+}
+
+.footer h2{
+    margin: auto;
 }
